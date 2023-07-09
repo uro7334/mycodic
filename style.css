@@ -1,4 +1,12 @@
-header {
+
+.header-left {
     letter-spacing: 3px;
     font-weight: bold;
+    opacity: 0.9;
+}
+.html main {
+    display: block;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
 }
